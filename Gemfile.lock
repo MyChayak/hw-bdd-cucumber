@@ -233,6 +233,7 @@ DEPENDENCIES
   cucumber-rails
   database_cleaner
   jquery-rails
+  nokogiri
   pg (~> 0.2)
   pry
   pry-byebug
